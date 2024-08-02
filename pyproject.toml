@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "echo \"# packageuser 1\" >> readme-md"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["jwkang96 <jiwon961212@hanmail.net>"]
 readme = "README.md"
